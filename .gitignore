@@ -1,2 +1,4 @@
 # everything under build/ is reproducible from masters/ via build.py
 build/
+__pycache__/
+*.pyc
