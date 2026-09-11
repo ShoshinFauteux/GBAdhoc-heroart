@@ -3,7 +3,7 @@
 # GBAdhoc Hero Art
 
 Full-screen artwork for the [GBAdhoc](https://github.com/ShoshinFauteux/GBAdhoc) game
-browser. 27 cards so far, plus everything you need to make your own.
+browser. 47 cards so far, plus everything you need to make your own.
 
 ### [⬇ Download the pack](https://github.com/ShoshinFauteux/GBAdhoc-heroart/releases/latest)
 
@@ -43,7 +43,7 @@ know.
 
 ## Building the pack from source
 
-The 27 originals are in `masters/` at 1376x768. Everything else is generated:
+The 47 originals are in `masters/` at 1376x768. Everything else is generated:
 
 ```
 python build.py           masters -> build/

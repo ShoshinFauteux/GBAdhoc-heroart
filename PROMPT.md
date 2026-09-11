@@ -12,16 +12,14 @@ twelve images. It reads as a letterbox bar or a UI panel rather than as
 artwork. The emulator can draw that scrim itself in code, as a true gradient,
 so the art must NOT contain one.
 
-**2. KEEP the framing consistent.** I initially called the repetition a fault.
-It is not — it is the point. A fixed relationship between the subject and the
+**2. KEEP the framing consistent.** A fixed relationship between the subject and the
 frame means the title always lands in the same place relative to the art, the
 composition does not jump while scrolling, and 100 covers read as one designed
 system instead of a scrapbook. Every platform UI enforces a rigid art spec for
 exactly this reason. The consistency stays.
 
 **3. Match the game's own tone.** Most were right — Mother 3's sunflowers,
-Battle Network's neon grid, Minish Cap's forest. Advance Wars 2 was not: a
-grim grey battlefield for a bright, comedic, cartoon-military game.
+Battle Network's neon grid, Minish Cap's forest.
 
 ---
 
@@ -101,17 +99,6 @@ DO NOT
 No text. No borders, vignette frames or bars. No collage or panels. No UI
 mockups. No logos. No watermarks.
 ```
-
----
-
-## Per-image notes for the regenerations
-
-| Image | Verdict | What to ask for |
-|---|---|---|
-| **Advance Wars 2** | regenerate | Bright daylight, saturated, cartoon-military. Cheerful cel-shaded cast, on-model — round friendly faces, not realistic anime. Blue sky with clouds, green terrain. Remove the tall dark machine that isn't in the source. |
-| **Pokémon Emerald** | regenerate | The re-staging was the right call — the source has Rayquaza dead centre and it could not have been extended. The fault is CONTRAST, not size: it has receded into the clouds and gone muddy. Keep it the same scale and position; make it read clearly — brighter green, cleaner silhouette, more separation from the sky behind it. |
-| **Minish Cap** | regenerate | Link is small and sits in the bottom band. Make him ~30% larger and higher — matching the subject scale the other images use, not exceeding it. Keep the forest and the cel-shaded style, they are right. |
-| **All other 9** | keep, re-run only for the band | Composition and tone are good. Only regenerate to remove the bottom bar. |
 
 ## Installing
 
