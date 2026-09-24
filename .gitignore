@@ -2,3 +2,7 @@
 build/
 __pycache__/
 *.pyc
+
+# GB/GBC workspace: covers are fetched per run, full prompts regenerate
+boxart-gb/
+prompts_gb_full/

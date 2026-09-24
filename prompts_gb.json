@@ -1,0 +1,62 @@
+[
+  {
+    "console": "Game Boy",
+    "title": "Pokemon Red Version",
+    "stem": "Pokemon - Red Version (USA, Europe) (SGB Enhanced)",
+    "note": "Charizard, on-model in Ken Sugimori's official 1998 style, dominates the right half mid-roar with its tail flame lit; build a smouldering volcanic ridge and ember-lit dusk sky around it. The left half is dark, hazy smoke and distant mountains."
+  },
+  {
+    "console": "Game Boy",
+    "title": "Pokemon Blue Version",
+    "stem": "Pokemon - Blue Version (USA, Europe) (SGB Enhanced)",
+    "note": "Blastoise, on-model in Ken Sugimori's official 1998 style, stands in the right half with its cannons forward, spray catching the light; build a stormy sea and breaking waves around it. The left half is deep, calm open ocean under overcast sky."
+  },
+  {
+    "console": "Game Boy",
+    "title": "Tetris",
+    "stem": "Tetris (World) (Rev 1)",
+    "note": "The cover is mostly wordmark, so paint the scene instead: the onion domes of St. Basil's Cathedral at dusk in the right half, with a few large, bold, glossy tetrominoes (I, T, L, S shapes, the cover's red, blue, green and yellow) drifting down past them. The left half is a calm deep-blue evening sky with soft snow. Playful, not grim."
+  },
+  {
+    "console": "Game Boy",
+    "title": "The Legend of Zelda: Link's Awakening",
+    "stem": "Legend of Zelda, The - Link's Awakening (USA, Europe)",
+    "note": "The cover is a gold field with a crest and sword; painting it out leaves nothing, so paint the game's world instead, in the style of Nintendo's 1993 official Link's Awakening artwork: Link on the moonlit shore of Koholint Island in the right half, sword and shield, gazing up at Mt. Tamaranch with the giant Wind Fish's egg glowing on its summit. Keep a nod to the cover's warm gold in the moonlight. The left half is quiet night sea and mist. Dreamlike and wistful."
+  },
+  {
+    "console": "Game Boy",
+    "title": "Super Mario Land 2: 6 Golden Coins",
+    "stem": "Super Mario Land 2 - 6 Golden Coins (USA, Europe)",
+    "note": "Bright and comedic, matching the cover: Mario, on-model in the cover's own early-90s illustration style, in the right half leaping with bunny ears, with Wario's castle on its hill behind him and a golden coin or two in the air. The left half is soft pastel sky and clouds, slightly darkened. Not dark, not epic."
+  },
+  {
+    "console": "Game Boy Color",
+    "title": "Pokemon Gold Version",
+    "stem": "Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)",
+    "note": "Ho-Oh, on-model in Ken Sugimori's official 2000 style, wings spread in the right half above the Bell Tower's rooftops, trailing a rainbow; build a golden-hour sky around it. The left half is warm, dim haze and distant Ecruteak rooftops."
+  },
+  {
+    "console": "Game Boy Color",
+    "title": "Pokemon Silver Version",
+    "stem": "Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)",
+    "note": "Lugia, on-model in Ken Sugimori's official 2000 style, rising from the sea in the right half beside the Whirl Islands, silver-white and luminous; build a moonlit ocean with a swirling whirlpool around it. The left half is calm, dark silver-blue night sea."
+  },
+  {
+    "console": "Game Boy Color",
+    "title": "Pokemon Crystal Version",
+    "stem": "Pokemon - Crystal Version (USA, Europe) (Rev 1)",
+    "note": "Suicune, on-model in Ken Sugimori's official 2000 style, bounding across water in the right half, ribbon tails and crystal mane streaming; build an icy aurora-lit lake with crystal facets catching the light. The left half is deep teal twilight and still water."
+  },
+  {
+    "console": "Game Boy Color",
+    "title": "The Legend of Zelda: Link's Awakening DX",
+    "stem": "Legend of Zelda, The - Link's Awakening DX (USA, Europe) (Rev 2) (SGB Enhanced) (GB Compatible)",
+    "note": "Same world as Link's Awakening but DAYTIME and in brighter Game Boy Color hues, so the two cards read as siblings, not duplicates: Link in the right half on Toronbo Shores beside his washed-up raft, Marin nearby with her flowers, Mt. Tamaranch and the Wind Fish's egg on the horizon under a warm late-afternoon sky. The left half is calm sea and soft sky. Gentle and warm."
+  },
+  {
+    "console": "Game Boy Color",
+    "title": "The Legend of Zelda: Oracle of Seasons",
+    "stem": "Legend of Zelda, The - Oracle of Seasons (USA, Australia)",
+    "note": "Link, on-model in the Capcom/Nintendo 2001 official Oracle artwork style, in the right half raising the Rod of Seasons, with the land of Holodrum behind him split across the four seasons (spring blossom, summer green, autumn gold, winter snow) blending into one another. Keep the cover's fiery red-orange warmth. The left half is soft, darkened autumn haze."
+  }
+]
