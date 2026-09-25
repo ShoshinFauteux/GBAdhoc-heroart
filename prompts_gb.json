@@ -58,5 +58,47 @@
     "title": "The Legend of Zelda: Oracle of Seasons",
     "stem": "Legend of Zelda, The - Oracle of Seasons (USA, Australia)",
     "note": "Link, on-model in the Capcom/Nintendo 2001 official Oracle artwork style, in the right half raising the Rod of Seasons, with the land of Holodrum behind him split across the four seasons (spring blossom, summer green, autumn gold, winter snow) blending into one another. Keep the cover's fiery red-orange warmth. The left half is soft, darkened autumn haze."
+  },
+  {
+    "console": "Game Boy",
+    "title": "Kirby's Dream Land",
+    "stem": "Kirby's Dream Land (USA, Europe)",
+    "note": "Cute and joyful, in the official 1992 illustration style: Kirby in the right half happily riding a bright Warp Star across a starlit twilight sky, with King Dedede's castle on Mt. Dedede and the soft hills of Dream Land in the distance. The left half is calm, darkened twilight sky with soft pastel clouds and quiet stars."
+  },
+  {
+    "console": "Game Boy",
+    "title": "Kirby's Dream Land 2",
+    "stem": "Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)",
+    "note": "Bright, cheerful and cute, matching the official 1995 illustration style: Kirby riding Rick the hamster in the right half, with Coo flying overhead and the Rainbow Islands in the distance under a warm sunset sky. The left half is soft, darkened purple-blue twilight sky with gentle rolling clouds."
+  },
+  {
+    "console": "Game Boy",
+    "title": "Pokemon Yellow Version: Special Pikachu Edition",
+    "stem": "Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)",
+    "note": "Playful and energetic, on-model in Ken Sugimori's official 1998 watercolor style: Pikachu in the right half leaping forward joyfully with sparks dancing on its cheeks; build a peaceful Pallet Town meadow with Viridian Forest in the background under late-afternoon sunlight. The left half is calm, shadowed grass and soft dusky sky."
+  },
+  {
+    "console": "Game Boy",
+    "title": "Super Mario Land",
+    "stem": "Super Mario Land (World) (Rev 1)",
+    "note": "Playful and adventurous, matching the official 1989 illustration style: Mario in the right half running forward with a cheerful expression, set against the ancient desert pyramids and palm trees of Sarasaland's Birabuto Kingdom under a warm sunset. The left half is calm, darkened desert dunes and dusky sky."
+  },
+  {
+    "console": "Game Boy",
+    "title": "Wario Land: Super Mario Land 3",
+    "stem": "Wario Land - Super Mario Land 3 (World)",
+    "note": "Comedic, mischievous and bold: Wario in his horned Viking Bull helmet grinning triumphantly in the right half, holding a bag of gold coins on Kitchen Island with pirate ships and the giant skull rock in the distance. The left half is dark, moody ocean under overcast pirate-cove clouds."
+  },
+  {
+    "console": "Game Boy Color",
+    "title": "The Legend of Zelda: Oracle of Ages",
+    "stem": "Legend of Zelda, The - Oracle of Ages (USA, Australia)",
+    "note": "Link, on-model in the Capcom/Nintendo 2001 official Oracle artwork style, in the right half raising the Harp of Ages, with the land of Labrynna behind him and the Black Tower rising under swirling blue temporal energy. Keep the cover's deep sapphire-blue tone to pair as a companion to Oracle of Seasons. The left half is quiet, deep ocean and misty nocturnal haze."
+  },
+  {
+    "console": "Game Boy Color",
+    "title": "Shantae",
+    "stem": "Shantae (USA)",
+    "note": "Vibrant, spirited and mystical, on-model in WayForward's original 2002 official artwork style: Shantae in the right half in a dynamic half-genie dance pose with her long purple ponytail swinging; build Scuttle Town's lighthouse and exotic coastal desert cliffs behind her at dusk. The left half is calm, dark turquoise twilight sea and evening sky."
   }
 ]
