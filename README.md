@@ -3,9 +3,12 @@
 # GBAdhoc Hero Art
 
 Full-screen artwork for the [GBAdhoc](https://github.com/ShoshinFauteux/GBAdhoc) game
-browser. 47 cards so far, plus everything you need to make your own.
+browser. 86 cards so far across GBA, Game Boy, and Game Boy Color, plus everything you need to make your own.
 
-### [⬇ Download the pack](https://github.com/ShoshinFauteux/GBAdhoc-heroart/releases/latest)
+### ⬇ Download
+- **[⬇ Download Complete Pack (86 cards)](https://github.com/ShoshinFauteux/GBAdhoc-heroart/releases/latest)**
+- **[⬇ Download Game Boy (GB) Pack (10 cards)](https://github.com/ShoshinFauteux/GBAdhoc-heroart/releases/latest)**
+- **[⬇ Download Game Boy Color (GBC) Pack (7 cards)](https://github.com/ShoshinFauteux/GBAdhoc-heroart/releases/latest)**
 
 Unzip it, copy the files into `PSP/GAME/GBAdhoc/hero/`, done.
 
@@ -43,11 +46,11 @@ know.
 
 ## Building the pack from source
 
-The 47 originals are in `masters/` at 1376x768. Everything else is generated:
+The 86 originals are in `masters/` at 1376x768. Everything else is generated:
 
 ```
 python build.py           masters -> build/
-python build.py --pack    ...and zip it for a release
+python build.py --pack    ...and zip all packs for a release (complete, GB, GBC)
 ```
 
 Three steps, and each one is there for a reason:

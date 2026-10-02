@@ -79,12 +79,40 @@ def main():
                n // 1024))
 
     if '--pack' in sys.argv:
+        # 1. Main all-cards pack
         zp = os.path.join(OUT, 'gbadhoc-heroart-%d-cards.zip' % len(names))
         with zipfile.ZipFile(zp, 'w', zipfile.ZIP_DEFLATED) as z:
             for f in sorted(os.listdir(pack)):
                 z.write(os.path.join(pack, f), os.path.join('hero', f))
             z.write('README.md')
         print('\n%s  (%.1f MB)' % (zp, os.path.getsize(zp) / 1048576.0))
+
+        # 2. Separate GB / GBC packs if definitions exist
+        gb_json = 'prompts_gb.json'
+        if os.path.isfile(gb_json):
+            import json
+            queue = json.load(open(gb_json, encoding='utf-8'))
+            gb_stems = set(e['stem'] for e in queue if e['console'] == 'Game Boy')
+            gbc_stems = set(e['stem'] for e in queue if e['console'] == 'Game Boy Color')
+
+            def make_subpack(stems, label):
+                sub_zp = os.path.join(OUT, f'gbadhoc-heroart-{label}-{len(stems)}-cards.zip')
+                with zipfile.ZipFile(sub_zp, 'w', zipfile.ZIP_DEFLATED) as z:
+                    for s in sorted(stems):
+                        for ext in ('.png', '.565'):
+                            fn = s + ext
+                            fp = os.path.join(pack, fn)
+                            if os.path.isfile(fp):
+                                z.write(fp, os.path.join('hero', fn))
+                    z.write('README.md')
+                print('%s  (%.1f MB)' % (sub_zp, os.path.getsize(sub_zp) / 1048576.0))
+
+            if gb_stems:
+                make_subpack(gb_stems, 'gb')
+            if gbc_stems:
+                make_subpack(gbc_stems, 'gbc')
+            if gb_stems or gbc_stems:
+                make_subpack(gb_stems | gbc_stems, 'gb-gbc')
     return 0
 
 
