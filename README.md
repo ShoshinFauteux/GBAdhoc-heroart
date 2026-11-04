@@ -3,10 +3,10 @@
 # GBAdhoc Hero Art
 
 Full-screen artwork for the [GBAdhoc](https://github.com/ShoshinFauteux/GBAdhoc) game
-browser. 92 cards so far across GBA, Game Boy, and Game Boy Color, plus everything you need to make your own.
+browser. 130 cards so far across GBA, Game Boy, and Game Boy Color, plus everything you need to make your own.
 
 ### ⬇ Download
-- **[⬇ Download Complete Pack (92 cards)](https://github.com/ShoshinFauteux/GBAdhoc-heroart/releases/latest)**
+- **[⬇ Download Complete Pack (130 cards)](https://github.com/ShoshinFauteux/GBAdhoc-heroart/releases/latest)**
 - **[⬇ Download Game Boy (GB) Pack (10 cards)](https://github.com/ShoshinFauteux/GBAdhoc-heroart/releases/latest)**
 - **[⬇ Download Game Boy Color (GBC) Pack (7 cards)](https://github.com/ShoshinFauteux/GBAdhoc-heroart/releases/latest)**
 
@@ -46,7 +46,7 @@ know.
 
 ## Building the pack from source
 
-The 92 originals are in `masters/` at 1376x768. Everything else is generated:
+The 130 originals are in `masters/` at 1376x768. Everything else is generated:
 
 ```
 python build.py           masters -> build/
