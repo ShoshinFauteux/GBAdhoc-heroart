@@ -1,3 +1,4 @@
+Activision Anthology (USA)
 Advance Guardian Heroes (USA)
 Advance Wars (USA) (Rev 1)
 Advance Wars (USA)
@@ -10,6 +11,7 @@ Castlevania - Aria of Sorrow (USA)
 Castlevania - Circle of the Moon (USA)
 Castlevania - Harmony of Dissonance (USA)
 Contra Advance - The Alien Wars EX (USA)
+Diddy Kong Pilot (USA) (Beta 2)
 Donkey Kong Country 3 (USA)
 Doom II (USA)
 Double Dragon Advance (USA)
@@ -28,6 +30,7 @@ Final Fantasy VI Advance (USA)
 Fire Emblem (USA, Australia)
 Fire Emblem - The Binding Blade (T)
 Fire Emblem - The Sacred Stones (USA, Australia)
+Fire Emblem The Morrow's Golden Country
 Ford Racing 3 (USA)
 Golden Sun (USA, Europe)
 Golden Sun - The Lost Age (USA, Europe)
@@ -81,6 +84,8 @@ Penny Racers (Europe)
 Pokemon - Blue Version (USA, Europe) (SGB Enhanced)
 Pokemon - Crystal Version (USA, Europe) (Rev 1)
 Pokemon - Emerald Version (USA, Europe)
+Pokemon - Epislon Emerald
+Pokemon - Epsilon Emerald
 Pokemon - FireRed Version (USA)
 Pokemon - Gold Version (USA, Europe) (SGB Enhanced) (GB Compatible)
 Pokemon - Heart & Soul
@@ -95,12 +100,15 @@ Pokemon - Silver Version (USA, Europe) (SGB Enhanced) (GB Compatible)
 Pokemon - Unbound
 Pokemon - Yellow Version - Special Pikachu Edition (USA, Europe) (CGB+SGB Enhanced)
 Pokemon Heart & Soul
+Pokemon MonoMyth
 Pokemon Mystery Dungeon - Red Rescue Team (USA, Australia)
 Pokemon Odyssey
 Pokemon Pinball - Ruby & Sapphire (USA)
 Pokemon Unbound
 Pokémon - Odyssey
 Pokémon Odyssey
+Polarium Advance (USA)
+Rock 'N Roll Racing (Europe)
 SSX 3 (USA, Europe)
 Shaman King - Master of Spirits (USA)
 Shaman King - Master of Spirits 2 (USA)
@@ -124,6 +132,7 @@ Tactics Ogre - The Knight of Lodis (USA)
 Tales of Phantasia (USA, Australia)
 Tetris (World) (Rev 1)
 Top Gear Rally (USA)
+Top Gun - Combat Zones (USA) (En,Fr,De,Es,It)
 Wario Land - Super Mario Land 3 (World)
 Wario Land 4 (USA, Europe)
 WarioWare - Twisted! (USA)
